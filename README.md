@@ -2,7 +2,7 @@
 
 This is the repository that contains source code for the [LAVIMO website](https://lavimo2023.github.io/LAVIMO/).
 
-If you find Nerfies useful for your work please cite:
+If you find LAVIMO useful for your work please cite:
 ```
 @misc{yin2024trimodal,
   title={Tri-Modal Motion Retrieval by Learning a Joint Embedding Space}, 
